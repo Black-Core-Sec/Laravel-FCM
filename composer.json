@@ -1,5 +1,5 @@
 {
-    "name": "peacerevolution/laravel-fcm",
+    "name": "black-core-sec/laravel-fcm",
     "description": "Laravel / Lumen package for Firebase Cloud Messaging ",
     "keywords": [
         "laravel",
@@ -14,12 +14,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Nicolas Brosy",
-            "email": "nicolas.brosy@gmail.com"
-        },
-        {
-            "name": "Thomas Alrek",
-            "email": "thomas@apility.no"
+            "name": "Black Core",
+            "email": "blackcoresec@gmail.com"
         }
     ],
     "require": {
